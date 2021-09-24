@@ -1,0 +1,18 @@
+{
+    "name": "danilyer228/privat_cool_lib",
+    "description": "Simple library for currency exchange",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "danilyer228",
+            "email": "danilsirotalol@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PrivatCoolLib\\": "src/"
+        }
+    }
+}
